@@ -2,7 +2,7 @@
 
 # Multiple Disease Prediction Application
 
-## Name of the Student
+### Name of the Student
 Name: Hardik Panchal <br>
 Email I'd: hardikpanchal291002@gmail.com <br><br>
 
