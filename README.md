@@ -1,6 +1,6 @@
 # AICTE Internship on AI: Transformative Learning with TechSaksham – A joint CSR initiative of Microsoft & SAP
 
-# Multiple Disease Prediction Application
+# AI-Powered Medical Diagnosis System: Multiple Disease Prediction Application
 
 ### Name of the Student
 Name: Hardik Panchal <br>
